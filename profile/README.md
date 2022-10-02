@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## What:
+## What
 The Omphalos Project is the home of the next generation Modern Object Pascal compiler, libraries, tooling and IDE integrations.
 
 ## Why
@@ -9,11 +9,13 @@ What might not be known to many, is that Object Pascal is still modern and capab
 With the latter, Object Pascal already have safety features which makes it ideal to construct more safe software.
 The Omphalos compiler aims to follow the Delphi dialect of Object Pascal and expand on this further by carefully adding valuable language extensions to the dialect and adding mechanisms to the compiler with further helps the developer writting better code.
 
-Unlike Rust, Object Pascal has a clear, concises and easy to learn syntax which comes natural to developers and already at this point, help avoid the common mistakes made in a compiled language.
+Unlike Rust and other C derived languages, Object Pascal has a clear, concises and easy to learn syntax which comes natural to developers and already at this point, help avoid the common mistakes made in a compiled language. This also lowers the barrier of entry and even makes it fun to program software.
 
-Besides the compiler iself, you'll also find libraries and tooling to support writing good and maintainable software, along with IDE integrations.
+Besides the compiler itself, you'll also find libraries and tooling to support writing good and maintainable software, along with IDE integrations.
 
 The compiler and supporting libraries will be released under a permissive license to facilitate and encourage usage in commercial software development without risking license compliance issues.
+
+The world needs more native compiled and good software - and Object Pascal.
 
 <!--
 
