@@ -17,6 +17,11 @@ The compiler and supporting libraries will be released under a permissive licens
 
 The world needs more native compiled and good software - and Modern Object Pascal.
 
+## The name
+Some might wonder "Why Omphalos?".
+Object Pascal was made popular - and still is, with the Delphi Object Pascal dialect and its powerful, modern IDE which has unmatched features other IDEs still don't have.
+As part of the ancient Greek mythology, Omphalos became the center stone of Delphi and seen as a vessel to talk to the ancient Greek gods. While the project does not aim to talk to gods, it certainly aims to become the center stone of writing powerful software, unleashing the power of Delphi while being committed to a backwards compatible and stable syntax to secure your long term investment in writing robust software products.
+
 <!--
 
 **Here are some ideas to get you started:**
